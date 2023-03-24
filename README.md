@@ -1,9 +1,3 @@
-
-# Adam: A Discord Bot
-
-Adam is a discord bot I made in one sitting; it has one purpose
-
-
 # Adam: A Discord Bot
 
 Adam is a discord bot I made in one sitting; it has one purpose
